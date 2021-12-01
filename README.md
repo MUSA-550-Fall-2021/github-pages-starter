@@ -2,11 +2,11 @@
 
 A template for including data visualizations in a Jekyll-powered blog with Github Pages.
 
-
 ## Steps
+
 - Click on the "Use this template" button to create a new repository.
 - Choose a new name for your new repository
-- Go to the Settings section of your new repository, scroll down to the "Github Pages" section, and select the "Master" as the branch to be used for GitHub pages. This will automatically build the website. 
+- Go to the Settings section of your new repository, scroll down to the "Github Pages" section, and select the "Main" as the branch to be used for GitHub pages. This will automatically build the website.
 - Customize your site
   - Enter your site name, description, etc by editing the `_config.yml` file.
   - There are 3 different ways that you can make changes to your blog's files:
