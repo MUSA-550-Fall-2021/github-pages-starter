@@ -11,7 +11,6 @@ A template for including data visualizations in a Jekyll-powered blog with Githu
   - Enter your site name, description, etc by editing the `_config.yml` file.
   - There are 3 different ways that you can make changes to your blog's files:
     - Edit files within your in the browser at GitHub.com
-    - Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io).
     - Clone down your repository and make updates locally, then push them to your GitHub repository.
 - Publish a post
   - Posts are written in Markdown and any files added to the `_posts` directory will be automatically uploaded and published
